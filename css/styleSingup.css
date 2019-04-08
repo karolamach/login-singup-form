@@ -20,11 +20,18 @@
         color: white;
         margin-bottom: 0%;
       }
+      h2{
+        font-family: "Pacifico", cursive;
+        font-size: 20px;
+        color: white;
+        margin-bottom: 0%;
+      }
 
     .login-page {
     width: 360px;
     padding: 8% 0 0;
     margin: auto;
+    top:0;
   }
   .form {
     position: relative;
